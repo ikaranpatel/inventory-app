@@ -1,6 +1,4 @@
-# Project Name
-
-Inventory Management System
+# Inventory Management System
 
 ## Description
 
